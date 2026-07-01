@@ -1,1 +1,1 @@
-This is a Insurance Predictor Application by using machine learning for model training , pydantic for data validation 
+This is a Insurance Predictor Application by using machine learning for model training , pydantic for data validation and FastAPI to give a extra layer on my model so that my backend model training does not harmed by anyone.
